@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Classic T-Shirt",
+    "price": 19.99,
+    "category": "Clothing",
+    "image": "https://th.bing.com/th/id/OIP.PIfNMS_ZNsYB__qOhWrrMwHaHa?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": 2,
+    "name": "Leather Wallet",
+    "price": 25.00,
+    "category": "Accessories",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=gTl8gVWm&id=343168DBB62C0CE77BCE6633BB32721CBB77FE35&thid=OIP.gTl8gVWml2KQN8xLhXx1RwHaHa&mediaurl=https%3a%2f%2fi.etsystatic.com%2f16971055%2fr%2fil%2f4e0cf5%2f3021061575%2fil_1588xN.3021061575_7om9.jpg&exph=1588&expw=1588&q=leather+wallet&simid=608002692598226558&FORM=IRPRST&ck=AEF38C5BE5DE3B6CD85FC9FB136113F5&selectedIndex=7&itb=0"
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 49.99,
+    "category": "Footwear",
+    "image": "https://www.bing.com/aclick?ld=e8EcgDNuzOCvlD2Enp5GMgTzVUCUxzC8LjutVFH6RK3GiieT9sar4oUyfu7Mm_7IqG6v45-6ATiqT9H9ZMtndm5rfUemHgbHDMxWg5sEMGFIVKjhvlqM2dUot5dK_JZ52PiqSJOAB4dzGyXJvteGT3iyKS3iPiPu3xDzfgodyVKkayjVjltWB__Yr54tcY6_8TieKCFA&u=aHR0cHMlM2ElMmYlMmZpbi5wdW1hLmNvbSUyZmluJTJmZW4lMmZwZCUyZnNlcmlhaC1tZW5zLXJ1bm5pbmctc2hvZXMlMmYzMTA0MjQlM2ZzaXplJTNkMDIyMCUyNnN3YXRjaCUzZDAxJTI2dXRtX3NvdXJjZSUzZEJJTkctRERBJTI2dXRtX21lZGl1bSUzZERTUCUyNnV0bV9jYW1wYWlnbiUzZERTUF9CSU5HX0REQV9JTl9QTUFYX2FnZW5jeV8xMDAwMDY3NDk1ODU3NTA4ODczJTI2bXNjbGtpZCUzZDc1ZmE2MTBkYmNhZTEyNzVkZmM4MDk5ZWU5ZTBhOTc2&rlid=75fa610dbcae1275dfc8099ee9e0a976&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 150.00,
+    "category": "Electronics",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=WGOZNjuN&id=86889DFEC994DD2A4E3452BD6932822BAA113ECA&thid=OIP.WGOZNjuNIvkVixSj9rQBcAHaIs&mediaurl=https%3a%2f%2fm.media-amazon.com%2fimages%2fI%2f61ftG19NACL._AC_SL1500_.jpg&exph=1500&expw=1278&q=smart+watch&simid=608013004850408899&FORM=IRPRST&ck=B38949A496FF01C524753801FBBDF599&selectedIndex=2&itb=0"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Headphones",
+    "price": 59.99,
+    "category": "Electronics",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=162XgA3L&id=B85F1BD4495A323F4DAB84B97E390BCAE94447D3&thid=OIP.162XgA3LgtEP8dEewA6ETAHaHa&mediaurl=https%3a%2f%2fwww.bhphotovideo.com%2fimages%2fimages2500x2500%2fskullcandy_s6hbgy_374_hesh_2_bluetooth_headphones_1085703.jpg&exph=2500&expw=2500&q=bluetooth+headphones&simid=608030150400566571&FORM=IRPRST&ck=34837224D8962BBD8DDE10C76FA50CD8&selectedIndex=0&itb=0"
+  
+  },  {
+    "id": 6,
+    "name": "Hoodie",
+    "price": 34.99,
+    "category": "Clothing",
+    "image": "https://www.bing.com/aclick?ld=e85thS6Q-_MhZYTdeVIwLPxjVUCUzrEa0qkR1EogG96bWfb-Ap9eM3UvpucoXpA-7xPAsKxrq2ca-WjkhW6BfrlgnxCCheJ71j4iw4jq1YfJibV617I61d-LyTmOTFAW-_JlJsbq4Kd6CO6iimIoddCI6itIPLUcLRJ-xU8pZoADGtoshidSARwIdGwYs9fGeTqIKqHg&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmMtbW90by5kZSUyZmVwYWdlcyUyZmZjbS5zZiUyZiUzZmNoYW5uYWJsZSUzZDAyNTUzZTY5NjQwMDMxMzkzNjM1MzIzNTM4MzkzNDM4JTI2T2JqZWN0UGF0aCUzZCUyZlNob3BzJTJmMTAyMDcwNDglMmZQcm9kdWN0cyUyZkJlcmlrLUNsYXNzaWMtWi1aaXAtSG9vZGllJTJmU3ViUHJvZHVjdHMlMmZCZXJpay1DbGFzc2ljLVotWmlwLUhvb2RpZS0wMDAxJTI2TG9jYWxlJTNkZW5fSU4lMjZtc2Nsa2lkJTNkOWExMmI1NjVhYWEyMWEzODJkYzdkZGY2ZmNhMTUyYjQlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklORCUyNTVEJTI1MjAlMjU3QyUyNTIwUE1heCUyNTIwJTI1N0MlMjUyMDgwMCUyNTI1JTI2dXRtX3Rlcm0lM2QyMzI0MzY3NTgxNzQ3ODQ0JTI2dXRtX2NvbnRlbnQlM2RBc3NldC1HcnVwcGUlYzIlYTAx&rlid=9a12b565aaa21a382dc7ddf6fca152b4&ntb=1&ntb=1"
+  },
+  {
+    "id": 7,
+    "name": "Backpack",
+    "price": 44.99,
+    "category": "Accessories",
+    "image": "https://www.bing.com/aclick?ld=e896lDCrSDve-S40GtLK8dVjVUCUz40NiNGAL6UheJMS1_me7cmZaPoin2AdbV8Tuwt0rmjRnCvGH_5sy9b7oonPF6D2NwwiFnUc0GMm4eM0cFUO2G9_G8ZmRxLGZTTbeFTWUaw-OTua6CDUrb6w2M1JGmhLB2NpX0s89ibxex9uGLQXOHe3M00GILkWrv5Mpp2wVDLg&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmMtbW90by5kZSUyZmVwYWdlcyUyZmZjbS5zZiUyZiUzZmNoYW5uYWJsZSUzZDAyNTUzZTY5NjQwMDMxMzUzNDMxMzEzNzMzMzgzNDMyYTElMjZPYmplY3RQYXRoJTNkJTJmU2hvcHMlMmYxMDIwNzA0OCUyZlByb2R1Y3RzJTJmQWNlcmJpcy1TaGFkb3ctMzhMVC0yMC1CYWNrcGFjay0yNSUyNkxvY2FsZSUzZGVuX0lOJTI2bXNjbGtpZCUzZGE2MTViMjYzZWM4ODFhYjUyNzc3ZGFmMGJhYTg3YjdkJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkJTI1NUJJTkQlMjU1RCUyNTIwJTI1N0MlMjUyMFBNYXglMjUyMCUyNTdDJTI1MjA4MDAlMjUyNSUyNnV0bV90ZXJtJTNkMjMyNDM2NzU4MTc0NzgwOSUyNnV0bV9jb250ZW50JTNkQXNzZXQtR3J1cHBlJWMyJWEwMQ&rlid=a615b263ec881ab52777daf0baa87b7d&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 8,
+    "name": "Sneakers",
+    "price": 65.00,
+    "category": "Footwear",
+    "image": "https://www.bing.com/aclick?ld=e8aqvxtGgYBn4WrIHh_Z06oTVUCUxH9hOTh4NpDJbLQcpqHNvxUJHHIklcjsEB5cyHV8a8sqtPCx8RhBYKlv_XEFb0GltCABHMFTo-n6LPb1ikGcvIlvdoXX71ulIJvlwQ1H3cwRAYD6IrDOw8NWXW7hjCwQfwzuf21h05gPayqXsOzCGLaSgEeKcaALWMJIBc0rR-wQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmlyc3RjcnkuY29tJTJmY3V0ZS13YWxrLWJ5LWJhYnlodWclMmZjdXRlLXdhbGstYnktYmFieWh1Zy12ZWxjcm8tY2xvc3VyZS1zbmVha2VyLXNob2VzLXdpdGgtc3BhY2UtdGhlbWUtcHJpbnQtYmx1ZSUyZjIwMTgyODI0JTJmcHJvZHVjdC1kZXRhaWwlM2ZyZWYlM2RCU05fU2hvcHBpbmdfNl9Gb290d2VhciFCU04tU3RhbmRhcmRfQWxsX1NlYXJjaF9BZHMhJTI2bXNjbGtpZCUzZGRiNTgxMTM1ODNmYTFmNDY0MDU3NzlhNmQ1YjAwYmYyJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQlNOLVN0YW5kYXJkX0FsbF9TZWFyY2hfQWRzJTI2dXRtX3Rlcm0lM2Q0NTg2MzM3ODgyODk4OTYxJTI2dXRtX2NvbnRlbnQlM2RBZCUyNTIwZ3JvdXAlMjUyMCUyNTIzMQ&rlid=db58113583fa1f46405779a6d5b00bf2&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 9,
+    "name": "LED Monitor",
+    "price": 120.00,
+    "category": "Electronics",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=WLwjdBt0&id=9B6247C7599536ED42CFB86178BFD0F964150CB8&thid=OIP.WLwjdBt0snoZJS2d1RdLywHaHa&mediaurl=https%3a%2f%2fi5.walmartimages.com%2fasr%2fc4a06a84-8b0b-4477-a977-32323de532eb.66eb012f12486a47e2aa68e3a3d7992c.jpeg&exph=3300&expw=3300&q=led+monitor&simid=608025095195011586&FORM=IRPRST&ck=AD397E55B916FE326BF1A021491192B2&selectedIndex=0&itb=0"
+  },
+  {
+    "id": 10,
+    "name": "Denim Jacket",
+    "price": 69.99,
+    "category": "Clothing",
+    "image": "https://www.bing.com/aclick?ld=e8RfWvNLUZUJaxw6tXfFyDnTVUCUznt5NQIDHIP7NEGA5TXMMPQddSmmbAezcM3EE_-DpO_x_5e69OWzds5uh74WOEhKR2vVaXhEaKBZY1wPXq1vajgQnEmNkdlZQpfXduky8FEQsRuwP_3Wq9AQ4ML2efh5o5DwES0GZzWfVgG0y0tcqYmjufVdTv5Gxpr_b6r1PcEg&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmlyc3RjcnkuY29tJTJmYmFieWh1ZyUyZmJhYnlodWctZnVsbC1zbGVldmVzLWZyb250LW9wZW4tZGVuaW0td2FzaGVkLWphY2tldC13aXRoLXBvY2tldHMtYmxhY2slMmYxOTA2ODQwMSUyZnByb2R1Y3QtZGV0YWlsJTNmcmVmJTNkQlNOX1Nob3BwaW5nXzZfU3dlYXQtU2hpcnRzLWFuZC1KYWNrZXRzIUJTTi1TdGFuZGFyZF9BbGxfU2VhcmNoX0FkcyElMjZtc2Nsa2lkJTNkZGMyNjg1NjE0OTc5MTA0ODY5NTNlZGYyMWZmMzdmM2UlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCU04tU3RhbmRhcmRfQWxsX1NlYXJjaF9BZHMlMjZ1dG1fdGVybSUzZDQ1ODYzMzc4ODI4OTg5NjElMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwJTI1MjMx&rlid=dc268561497910486953edf21ff37f3e&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 11,
+    "name": "Sunglasses",
+    "price": 15.99,
+    "category": "Accessories",
+    "image": "https://www.bing.com/aclick?ld=e8KZduOKQVmRDJBsCfXo3hszVUCUwuasjKyybJoQlHxUk1FVN8ewmsVLE3abtJ4yQSOg8EA1gwkK-uMJcBNxvfk01L4WcPfvc3ym9_LOyWb9uXibE5lnI_oWEtnLFOqOcv9GN8gS_BQp5xQZC8ke7eIok0T7EbT6t0m-4l--wLK2FfDECJ2tLjhwMbZ53clmxX1HyXSQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZm5wLmNvbSUyZmdpZnQlMmZrYWJpci1zaW5naC11bmlzZXgtc3VuZ2xhc3NlcyUzZnNfa3djaWQlM2RBTCExNDc1NyExMCE3MzA0OTEzMTE0ODQ0MSEyMzI3MDQ3NjQxMTE0MjI2JTI2bXNjbGtpZCUzZGFiMDVlODk0ZDQ5OTFkNGMwMTdiODAwNzgyMjlhOTkzJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkRHluYW1pYyUyNTIwRmVlZCUyNTIwQmFzZWQlMjUyMEFkcyUyNnV0bV90ZXJtJTNkZ2lmdCUyNTIwJTI2dXRtX2NvbnRlbnQlM2REU0E&rlid=ab05e894d4991d4c017b80078229a993&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 12,
+    "name": "Formal Shoes",
+    "price": 85.00,
+    "category": "Footwear",
+    "image": "https://www.bing.com/aclick?ld=e8soV7FSuCOvsZVgLZkQfaJTVUCUzWPwF7XUpS170lYyCX1vZ2YvP3cSl8ozrmX0IdjkezXE70y2_iXaZh_Jr9VrZuO1FSImP-BlpjBIVHTdNhHL_lO9ML57a-66P9yqwfMa5SGqM4xcyqj7C_fBxXZ7GhYlrSlLkxuRQBR7u5Yktj8dxIQNPhWGzNe3qj1x0Mn58ELg&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmlyc3RjcnkuY29tJTJmY3V0ZS13YWxrLWJ5LWJhYnlodWclMmZjdXRlLXdhbGstYnktYmFieWh1Zy1mb3JtYWwtYW5kLXBhcnR5LXdlYXItbG9hZmVyLXNob2VzLWJyb3duJTJmMjA1OTY0MTIlMmZwcm9kdWN0LWRldGFpbCUzZnJlZiUzZEJTTl9TaG9wcGluZ182X0Zvb3R3ZWFyIUJTTi1TdGFuZGFyZF9BbGxfU2VhcmNoX0FkcyElMjZtc2Nsa2lkJTNkOTVlZDk2OTMyMjllMTk5MzEzMzRmZTAwN2FkNmIwMjklMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCU04tU3RhbmRhcmRfQWxsX1NlYXJjaF9BZHMlMjZ1dG1fdGVybSUzZDQ1ODYzMzc4ODI4OTg5NjElMjZ1dG1fY29udGVudCUzZEFkJTI1MjBncm91cCUyNTIwJTI1MjMx&rlid=95ed9693229e19931334fe007ad6b029&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 13,
+    "name": "Tablet",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=OxkN5JIq&id=9082EA7D20566FEB06DB6EE74265EB7897EBF4CB&thid=OIP.OxkN5JIqNz27Muc9w8lpYQHaFj&mediaurl=https%3a%2f%2fcdn.mos.cms.futurecdn.net%2feXubzpEtowpeYmvXT7QsL3.jpg&exph=1536&expw=2048&q=tablet+mode&simid=608053326014077344&FORM=IRPRST&ck=7BD4FF6AB4CB3DEDD0B2B6C5D0DE5539&selectedIndex=6&itb=0"
+  },
+  {
+    "id": 14,
+    "name": "Beanie Hat",
+    "price": 12.00,
+    "category": "Accessories",
+    "image": "https://www.bing.com/aclick?ld=e8wAAVeQv70vD2Y8sTJwYszjVUCUwQgPffd9_spQdvmlbQzRNQlVfR_JN02oTPY7JI_mE2aKx3axPhu-phfycbessEEYp6x2XHQY9X5JJepSntCn1oIYz8ben1Vhiqsap4kD6P7tO8lj3uInXgN481j0X17-50BpQPanjloTSIM38mO-einKnfVEugephnxcIG4Vw20g&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmMtbW90by5kZSUyZmVwYWdlcyUyZmZjbS5zZiUyZiUzZmNoYW5uYWJsZSUzZDAyNTUzZTY5NjQwMDMxMzQzMzM4MzQzNDM1MzYzNDMxNmYlMjZPYmplY3RQYXRoJTNkJTJmU2hvcHMlMmYxMDIwNzA0OCUyZlByb2R1Y3RzJTJmQWNlcmJpcy1Td2VhdC0yLUdvLUJlYW5pZSUyZlN1YlByb2R1Y3RzJTJmQWNlcmJpcy1Td2VhdC0yLUdvLUJlYW5pZS0wMDAyJTI2TG9jYWxlJTNkZW5fSU4lMjZtc2Nsa2lkJTNkODkwYmUxYzYwOGU2MTIwYjA5M2E4OTU1NWYzYzZhOTAlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklORCUyNTVEJTI1MjAlMjU3QyUyNTIwUE1heCUyNTIwJTI1N0MlMjUyMDgwMCUyNTI1JTI2dXRtX3Rlcm0lM2QyMzI0MzY3NTgxNzQ3ODA5JTI2dXRtX2NvbnRlbnQlM2RBc3NldC1HcnVwcGUlYzIlYTAx&rlid=890be1c608e6120b093a89555f3c6a90&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 15,
+    "name": "Graphic Tee",
+    "price": 22.00,
+    "category": "Clothing",
+    "image": "https://www.bing.com/aclick?ld=e8GUqQqiFGUn-oMxsUPaCSmjVUCUypIT8LisB2Qo_hnGhLr0bOt9hie1exPxxVcWdPgZokxLlFsPUqtpA3RzEWv-1-4xRG82-IECFD5aUbJwLLpigCsU1LAXkHKvUd8AM2XfdNsrNaT-w1gCW9DZvKpX_bPIBtkhieoBA9JbKnzZfftXscuSkbjMhoVFMszcH__KJK_w&u=aHR0cHMlM2ElMmYlMmZjbGlja3NlcnZlLmRhcnRzZWFyY2gubmV0JTJmbGluayUyZmNsaWNrJTNmJTI2ZHNfYV9jaWQlM2QyMjk0OTQxOTYlMjZkc19hX2NhaWQlM2Q1MzI1NzY1OTYlMjZkc19hX2FnaWQlM2QxMzYyMjk3NDg4MTcwNjM3JTI2ZHNfYV9maWlkJTNkJTI2ZHNfYV9saWQlM2RwbGEtMjMzNjk0MzI0NjI5NzUzMSUyNiUyNmRzX2VfYWRpZCUzZCUyNmRzX2VfbWF0Y2h0eXBlJTNkc2VhcmNoJTI2ZHNfZV9kZXZpY2UlM2RjJTI2ZHNfZV9uZXR3b3JrJTNkbyUyNmRzX2VfcHJvZHVjdF9ncm91cF9pZCUzZDIzMzY5NDMyNDYyOTc1MzElMjZkc19lX3Byb2R1Y3RfaWQlM2QxMDAwMDEzOTM1NDczJTI2ZHNfZV9wcm9kdWN0X21lcmNoYW50X2lkJTNkMjUwNDMwJTI2ZHNfZV9wcm9kdWN0X2NvdW50cnklM2RJTiUyNmRzX2VfcHJvZHVjdF9sYW5ndWFnZSUzZEVOJTI2ZHNfZV9wcm9kdWN0X2NoYW5uZWwlM2RPbmxpbmUlMjZkc19lX3Byb2R1Y3Rfc3RvcmVfaWQlM2QlMjZkc191cmxfdiUzZDIlMjZkc19kZXN0X3VybCUzZGh0dHBzJTNhJTJmJTJmd3d3Lm1heGZhc2hpb24uaW4lMmZpbiUyZmVuJTJmcCUyZjEwMDAwMTM5MzU0NzMlM2Ztc2Nsa2lkJTNkMDMzNGQ3NzUzODA1MTJkMThjZjNiZmU2NmZhODUxZWElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RQbWF4X0NhdGNoQWxsX0JpbmclMjZ1dG1fdGVybSUzZDIzMzY5NDMyNDYyOTc1MzElMjZ1dG1fY29udGVudCUzZENhdGNoQWxs&rlid=0334d775380512d18cf3bfe66fa851ea&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 16,
+    "name": "Laptop Bag",
+    "price": 49.99,
+    "category": "Accessories",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=K8IExWvb&id=D32242BB277EBE0123E5E33CD4F49400E26A36C1&thid=OIP.K8IExWvbu8thiugsURhmbAHaHa&mediaurl=https%3a%2f%2fmedia.startech.com%2fcms%2fproducts%2fgallery_large%2fntbkbag156.main.jpg&exph=2000&expw=2000&q=laptop+bag&simid=607986509234988778&FORM=IRPRST&ck=2908AC84ABD4ABF2DE75A29AC6E976CD&selectedIndex=11&itb=0"
+  },
+  {
+    "id": 17,
+    "name": "Loafers",
+    "price": 70.00,
+    "category": "Footwear",
+    "image": "https://www.bing.com/aclick?ld=e8qEMKSjkzgqE9g_HTSXtHlzVUCUxYwg0Z1o6Wux3L3RRR_9-KIFcia3JQPo8WGOVRF3x0zp2iSDv2O-12wuIAqQqR01FTtA0aP_92ykzMVKy1C1YFHj07sigTJrOnnLUI3bp0dcAPirUilXoaOzP3rXGmuskJ0QPcvjdS9i1ZudcgeT1yEPU_VPlk1-B1d6FhVX5Z9g&u=aHR0cHMlM2ElMmYlMmZpbi5wdW1hLmNvbSUyZmluJTJmZW4lMmZwZCUyZmFsZmFydW4tbWV0YWxsaWMtd29tZW5zLXNuZWFrZXJzJTJmMzkxODU0JTNmc2l6ZSUzZDAxNjAlMjZzd2F0Y2glM2QwMSUyNnV0bV9zb3VyY2UlM2RCSU5HLUREQSUyNnV0bV9tZWRpdW0lM2REU1AlMjZ1dG1fY2FtcGFpZ24lM2REU1BfQklOR19EREFfSU5fUE1BWF9hZ2VuY3lfMTAwMDA2NzQ5NTg1NzUwODg3MyUyNm1zY2xraWQlM2QxN2M5Mjc3YzBjMTQxYWI2YTc2NzRmZWY1YjQ1ZWJkMw&rlid=17c9277c0c141ab6a7674fef5b45ebd3&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 18,
+    "name": "Wireless Mouse",
+    "price": 20.00,
+    "category": "Electronics",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=QCjSsnf%2f&id=4A74892A9770E949E27625E6E9894490BEAC0017&thid=OIP.QCjSsnf_LZxV4YDJIeYf_QHaHa&mediaurl=https%3a%2f%2fwww.bhphotovideo.com%2fimages%2fimages2500x2500%2flogitech_910_004277_m310_xl_wireless_mouse_1413247.jpg&exph=2500&expw=2500&q=wireless+mouse&simid=608041231399262658&FORM=IRPRST&ck=74242FD6FA6F3C12E61ED8E3D362982C&selectedIndex=0&itb=0"
+  },
+  {
+    "id": 19,
+    "name": "Zip Hoodie",
+    "price": 39.99,
+    "category": "Clothing",
+    "image": "https://www.bing.com/aclick?ld=e8PZdlq0BgMN3pu5ES_5ke-jVUCUyc7S2oa0wiOCdturHr7BqsPlhVWeSv2KjfiEk_gMv5nNngK-N1nrIM5hzILWorVDBAu49EuMNMnWrc-PeKYA-u8KG7_77qsfUt1yELFAUVuVEh3xdFg19vQGvtXT_RVR2ZomjTn7nXM2_MR_rgQDdtxcMKet5fa1qvcuZc57L1Rw&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmMtbW90by5kZSUyZmVwYWdlcyUyZmZjbS5zZiUyZiUzZmNoYW5uYWJsZSUzZDAyNTUzZTY5NjQwMDMxMzMzMjM0MzMzNzM0MzgzNzM3NmUlMjZPYmplY3RQYXRoJTNkJTJmU2hvcHMlMmYxMDIwNzA0OCUyZlByb2R1Y3RzJTJmTWVybGluLUNvZHktQnVpbHQtV2l0aC1LZXZsYXItWmlwLUhvb2RpZSUyZlN1YlByb2R1Y3RzJTJmTWVybGluLUNvZHktQnVpbHQtV2l0aC1LZXZsYXItWmlwLUhvb2RpZS0wMDA5JTI2TG9jYWxlJTNkZW5fSU4lMjZtc2Nsa2lkJTNkNjI3YzAwZTk5NjFhMTY5NmQxMzE2ODdhYzBlMmZkYzElMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlMjU1QklORCUyNTVEJTI1MjAlMjU3QyUyNTIwUE1heCUyNTIwJTI1N0MlMjUyMDgwMCUyNTI1JTI2dXRtX3Rlcm0lM2QyMzI0MzY3NTgxNzQ4MDE1JTI2dXRtX2NvbnRlbnQlM2RBc3NldC1HcnVwcGUlYzIlYTAx&rlid=627c00e9961a1696d131687ac0e2fdc1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1&ntb=1"
+  },
+  {
+    "id": 20,
+    "name": "Flip Flops",
+    "price": 10.00,
+    "category": "Footwear",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=ex03GpEh&id=A20AE37CCC4B17BF2EE4DFEC21406DD808ADA24B&thid=OIP.ex03GpEhiKfZOdeR6WcDnwHaHa&mediaurl=https%3a%2f%2fd3d71ba2asa5oz.cloudfront.net%2f12017362%2fimages%2f20prflipflopsmenwo_77d5c_parent__8.jpg&exph=1600&expw=1600&q=flip+flops&simid=608043404680637270&FORM=IRPRST&ck=164413967FD124B08A330FC3E042E162&selectedIndex=0&itb=0"
+  }
+]
